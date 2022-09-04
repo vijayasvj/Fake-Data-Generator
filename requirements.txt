@@ -1,1 +1,1 @@
-faker
+Faker==14.2.0
