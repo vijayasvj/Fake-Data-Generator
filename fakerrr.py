@@ -1,6 +1,6 @@
 import streamlit as st 
 import pandas as pd 
-import Faker
+from faker import Faker
 import base64
 import time 
 
